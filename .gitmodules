@@ -1,3 +1,6 @@
 [submodule "Tello-Python"]
 	path = Tello-Python
 	url = https://github.com/dji-sdk/Tello-Python
+[submodule "easyTello"]
+	path = easyTello
+	url = https://github.com/Virodroid/easyTello
